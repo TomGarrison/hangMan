@@ -1,4 +1,3 @@
-
 var play = document.getElementById('play')
 play.addEventListener("click",playGame)
 function playGame() {
